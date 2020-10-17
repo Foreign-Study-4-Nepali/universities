@@ -8,4 +8,4 @@
 
 | College (asc)  | Fall Deadline  | Spring Deadline | Toefl | GRE | Rank | detail link |
 | :------------ |:---------------:| :-----:|
-| -      | Dec 31 | - | 90 | 320 | 140 | *** |
+| AIT Thailand      | - | - | - | - | - | *** |
