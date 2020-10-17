@@ -5,14 +5,31 @@ list of universities with application url, deadline, toefl and gre requirements 
 
 Q: How to add new college/university?
 
-> To add new college, first create file and add it within respective directory inside `colleges`  directory.
-  - Name of the file should be on lower case word with underscore as word separator. (eg. arizona_state_university.md).
+> To add new college, first create file (name pattern: `<2-digit-country-code>-<college-name>.md`) and add it within respective directory inside `colleges`  directory.
+  - Name of the file should be on lower case word with underscore as word separator. (eg. us_arizona_state_university.md).
   - Then add college name on the  `<*>-college-list.md` file. where * is respective directory name within colleges.
 
 Q: Know more about application?
 
-> Go to the applications directory and see whether your question has answer or not. If not then create issues.
+> Go to the applications [directory](applications/README.md) and see whether your question has answer there or not. If not then create issues.
 
+Q: Can I add copyright material?
+
+> nope. but you can share a link to download those file. Also avoid uploading large (approx. 25 mb) files.
+
+Q: What is the future plan?
+
+> We are thinking about managing all information on the systematic manner and then help student to write sop, cv (by reviewing it) and guide on application process.
+
+Q: I don't know how to use git. can I contribute?
+
+> for now create a issue and add all the information you want to add. In future, we are planning to make google form to take those information.
+
+# How to contribute?
+
+  1. first create issue on this repo.
+  2. then clone this repo and fixed it and create pull request. (try to follow the general pattern)
+  3. update any review feedback.
 
 
 
