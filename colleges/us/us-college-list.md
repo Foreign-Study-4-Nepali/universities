@@ -14,4 +14,4 @@
 | University of Memphis | 1st week of July | - | - | - | 258 | http://www.memphis.edu/ |
 | University of Hawaii      | 2nd week of Jan | - | 100 | - | 170 | https://www.hawaii.edu/ |
 | Boise State University | mid Jan | - | - | - | 298 | https://coen.boisestate.edu/ | 
-| Kent State University | Last week of Jan | - | - | 176 | https://kent.edu |
+| Kent State University | Last week of Jan | - | - | - | 176 | https://kent.edu |
