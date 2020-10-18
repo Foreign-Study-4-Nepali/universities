@@ -7,7 +7,7 @@
 # European College list with deadline and toefl, gre requirement
 
 | College (asc)  | Fall Deadline  | Spring Deadline | Toefl | GRE | Rank | detail link |
-| :------------ |:---------------:| :-----:|
+| :------------ |:---------------:| :-----:| :-----:| :-----:| :-----:| :-----:|
 | -      | Dec 31 | - | 90 | 320 | 140 | *** |
 
 
