@@ -7,5 +7,5 @@
 # Asian College list with deadline and toefl, gre requirement
 
 | College (asc)  | Fall Deadline  | Spring Deadline | Toefl | GRE | Rank | detail link |
-| :------------ |:---------------:| :-----:|
+| :------------ |:---------------:| :-----:| :-----:| :-----:| :-----:| :-----:|
 | AIT Thailand      | - | - | - | - | - | *** |
