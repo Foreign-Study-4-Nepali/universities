@@ -4,7 +4,7 @@ create account at [ets-gre](https://www.ets.org/gre) and take test date. (accoun
 
 
 # Resources
-  - resources: manghoosh videos, and other guides on [google drive](https://drive.google.com/drive/folders/0B0zR7rzRuLQMTHhTcDdKUXctblk)
+  - resources: mangoosh videos, and other guides on [google drive](https://drive.google.com/drive/folders/0B0zR7rzRuLQMTHhTcDdKUXctblk)
   - use Mnemosyne software to track vocab memorization
   - find mnemonic for difficult word from [Mnemonic Dictionary](https://mnemonicdictionary.com/)
   - use [Quizlet App](https://quizlet.com/) for better management of vocab. see some of the list created by [narayan](https://quizlet.com/narayan_kandel)
