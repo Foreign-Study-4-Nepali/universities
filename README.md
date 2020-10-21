@@ -34,6 +34,11 @@ A public list of universities with application url, deadline, toefl and gre requ
   2. Then clone this repo, fix the issue and create pull request. (try to follow the general pattern)
   3. Update any review feedback.
 
-
-
+### shortcut link
+  - [US Visa Related Material](applications/visa_process/us_visa)
+  - [US College List](colleges/us/us-college-list.md)
+  - [How to Have a Bad Career by David Patterson](https://www.youtube.com/watch?v=Rn1w4MRHIhc)
+  - [Checklist to adviser](applications/supporting_material/checklist-to-advisor.pdf)
+  - [GRE Material](applications/gre) | [TOEFL Material](applications/toefl)
+  - [Pack list](applications/supporting_material/gradly_packing_list.pdf)
 

@@ -3,6 +3,7 @@
 
 <details>
 <summary>US</summary>
+
   - Arizona State University
   - RIT
   - University of Arizona

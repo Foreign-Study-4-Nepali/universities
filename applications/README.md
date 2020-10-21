@@ -3,8 +3,8 @@
 <summary>Before Application</summary>
 
   - [ ] Search College (based on GRE, toefl, interest)
-  - [ ] (for phd) list out probable mentor, lab from each listed college.
-  - [ ] see the deadline
+  - [ ] (for phd) list out probable mentor, lab from each listed college. ([Grad School Resource](supporting_material/grad_school_resources.pdf))
+  - [ ] see the deadline ([us college list with deadline](https://github.com/Foreign-Study-4-Nepali/universities/tree/main/colleges/us))
   - [ ] prepare statement of purpose (SOP)
   - [ ] prepare cv
   - [ ] prepare sample letter of recommendation (LOR) for your reference.
@@ -37,8 +37,8 @@
 <details>
 <summary>After I20s</summary>
 
-  - [ ] take interview date as fast as possible. may be you need to reappear if visas denied on first attempt.
-  - [ ] prepare for interview. ([facebook group](https://www.facebook.com/groups/msinusfall2017))
+  - [ ] take interview date as fast as possible. may be you need to reappear interview if visas denied on first attempt. ([us visa material](visa_process/us_visa))
+  - [ ] prepare for interview. ([facebook group](https://www.facebook.com/groups/msinusfall2017) | [us visa material](visa_process/us_visa))
 
 </details>
 
@@ -47,7 +47,7 @@
 <summary>After Visa Before Departure</summary>
 
   - [ ] No objection letter from ministry of education
-  - [ ] what to take and what not to
+  - [ ] what to take and what not to ([Pack List](supporting_material/gradly_packing_list.pdf))
   - [ ] contact friend if you have any. to know what is required.
   - [ ] try to connect with fellow students via facebook. ([facebook group](https://www.facebook.com/groups/msinusfall2017))
 
